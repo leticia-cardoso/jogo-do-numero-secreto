@@ -14,7 +14,7 @@ A ONE em parceria com a Alura disponibilizaram um curso de programação e duran
 
 ## Funcionalidades
 
-- Acessibilidade: Ao clicar no link, aparecerá uma janela para liberar a narração por voz, das mensagens na tela. Para permitir clique em "Allow" ou em "Deny" para negar;
+- Acessibilidade: Ao clicar no link, aparecerá uma janela para liberar a narração por voz das mensagens na tela. Para permitir clique em "Allow" ou em "Deny" para negar;
 - Número sorteado: Nesta primeira versão, será sorteado um número de 1 a 10;
 - Chute: No momento que você inicia o programa já é disponibilizado o campo para tentar acertar o número sorteado;
 - Dicas: Você receberá dicas se o número chutado é menor ou maior que o número sorteado;
