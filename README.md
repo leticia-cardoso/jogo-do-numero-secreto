@@ -18,7 +18,7 @@ A ONE em parceria com a Alura disponibilizaram um curso de programação e duran
 - Número sorteado: Nesta primeira versão, será sorteado um número de 1 a 10;
 - Chute: No momento que você inicia o programa já é disponibilizado o campo para tentar acertar o número sorteado;
 - Dicas: Você receberá dicas se o número chutado é menor ou maior que o número sorteado;
-- Tentativas: O programa contabiliza a quantidade de tentaivas qaté que você tenha acertado o número.
+- Tentativas: O programa contabiliza e disponibiliza ao final do jogo, a quantidade de tentativas que você teve até acertar o número correto.
   
 
 
